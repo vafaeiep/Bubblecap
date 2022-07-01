@@ -1,7 +1,6 @@
-# Bubblecap
-# Hi , how re you doing? i hope you're doing great!
-# it was spring 2022 that i rasied my hand for being volenter to manufacring a bubble cap educational model, now i'm really happy for rasing my hand
-# always be open to new challenges.
-# i uploaded an autocad for the laser cutter to make slot wholes
-# feel free to cantact with me through my email: mohammad.h.vafaei@aut.ac.ir
-# never lose hope and keep moving
+#Bubble cap
+#Hello, how are you? Hope everything is going well for you!
+#I volunteered for the manufacturing of a bubble cap educational model in spring of 2022. 
+#To make slot holes, I uploaded an AutoCAD file for the laser cutter.
+#To get in touch with me, please use my email address: mohammad.h.vafaei@aut.ac.ir
+#Keep moving forward and never lose hope
